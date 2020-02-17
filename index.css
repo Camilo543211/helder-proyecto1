@@ -1,3 +1,7 @@
 body{
-    background: blue;
+    background : rgb(223, 220, 220) ;
+}
+
+p {
+    font-size: 20px;
 }
